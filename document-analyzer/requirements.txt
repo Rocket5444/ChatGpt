@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-python-multipart
-pdfplumber
-pandas
-openpyxl
-python-docx
-streamlit
-requests
